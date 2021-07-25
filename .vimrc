@@ -16,6 +16,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'racer-rust/vim-racer'
 Plugin 'ayu-theme/ayu-vim'
+Plugin 'preservim/nerdtree'
 Plugin 'w0rp/ale'
 call vundle#end()
 

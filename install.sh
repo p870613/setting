@@ -1,13 +1,13 @@
 # c install
-sudo apt install g++
+sudo apt install g++ -y
 
 #rust install 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-echo "rust is installed"
-sleep 5
+#curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+#echo "rust is installed"
+#sleep 5
 
 # git install and setting
-sudo apt install git
+#sudo apt install git
 sudo config --global user.name "p870613"
 sudo config --global user.email "p870613@yahoo.com.tw"
 
