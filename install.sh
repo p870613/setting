@@ -8,8 +8,8 @@ sudo apt install g++ -y
 
 # git install and setting
 #sudo apt install git
-sudo config --global user.name "p870613"
-sudo config --global user.email "p870613@yahoo.com.tw"
+sudo git config --global user.name "p870613"
+sudo git config --global user.email "p870613@yahoo.com.tw"
 
 # vim install and setting
 sudo apt install vim -y
