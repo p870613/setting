@@ -97,3 +97,5 @@ nmap <silent> <C-J> <Plug>(ale_next_wrap)
 let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
 let g:ycm_confirm_extra_conf = 0
 let g:ycm_rust_src_path = '~/.vim/rust/src'
+
+nnoremap <F5> :exec 'NERDTreeToggle' <CR>
